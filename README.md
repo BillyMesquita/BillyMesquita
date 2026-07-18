@@ -16,6 +16,13 @@ No tempo livre sou desenvolvedor **C# / .NET** gosto de criar soluções back-en
 - [**api-rent-car-prova**](https://github.com/BillyMesquita/api-rent-car-prova) — API de locação de veículos com Swagger, factories e padrão história (CQRS-like).
 - [**Trabalhos-Facul**](https://github.com/BillyMesquita/Trabalhos-Facul) — Sistema escolar com DDD, Entity Framework, migrations e arquitetura em camadas.
 
+## 📊 Estatísticas
+
+![BillyMesquita's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyMesquita&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillyMesquita&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BillyMesquita&theme=dark)
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/billy-mesquita)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:billy.mesquita@email.com)
