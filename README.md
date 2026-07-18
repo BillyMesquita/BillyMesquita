@@ -18,8 +18,7 @@ No tempo livre sou desenvolvedor **C# / .NET** gosto de criar soluções back-en
 
 ## 📊 Estatísticas
 
-![BillyMesquita's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyMesquita&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillyMesquita&layout=compact&theme=dark)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BillyMesquita&theme=dark)
 
 ## 📫 Contato
